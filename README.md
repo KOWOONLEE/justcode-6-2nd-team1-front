@@ -36,7 +36,7 @@
 - [백엔드 Github 링크](https://github.com/wecode-bootcamp-korea/justcode-6-2nd-team1-back)
 
 
-## 이고운 담당 상세 내용
+## 📌 이고운 담당 상세 내용
 
 ### 프로젝트 내 역할
   - 메인페이지 및 footer
