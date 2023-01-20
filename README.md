@@ -72,7 +72,7 @@
 **3) 음료 상세페이지**
 - 별점 구현으로 점수 및 한줄평 작성 (별 하나 클릭시 1점으로 산정하여 점수 기재)
 - 하단에는 음료 리뷰 작성 기능, 리뷰는 해당 메뉴 구매한 사람만 작성 가능 <br>
-  (post method이용하고 token값 받아와서 댓글 입력, get method로 inputvalue 조회해서 댓글 내용 가져옴,<br>
+  (post method이용하고 token값 받아와서 댓글 입력, get method로 inputvalue 조회해서 댓글 내용 가져옴,
    delete method이용하고 token 값 가져와서 본인 댓글 삭제)
 - 본인일 시 리뷰 삭제 가능
 
