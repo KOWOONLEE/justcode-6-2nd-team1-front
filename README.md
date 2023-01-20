@@ -50,6 +50,7 @@
 - 메인페이지 상단에 슬라이드  (react-slick 사용)
 - 매장 검색 input창에서 검색하면 매장검색 메뉴로 이동하여 검색 결과 출력
  (검색창이 빈칸이면 alert창이 뜨고 검색어 입력 후 검색 버튼 누르면 inputvalue값을 props로 매장 검색 페이지로 넘김)
+ 
  ![메인](https://user-images.githubusercontent.com/108816777/213649113-b3ba0456-1b78-4834-bbf0-ea02b010607a.gif)
 
 
@@ -59,6 +60,7 @@
   (시/도 selectbox에서 지역 선택하면 해당 지역에 해당되는 매장이 1차로 필터링, 이후 매장명 inputbox에서 매장명 키워드로 검색하여 2차 필터링)
 - 매장 클릭 시 해당 매장의 상세 내역이 기재된 modal창 뜸 (매장 위치 지도 포함)
 - 매장 위치는 네이버 지도 API 이용하여 위도, 경도로 받아와 위치 출력됨.
+
 ![매장검색resize](https://user-images.githubusercontent.com/108816777/213649300-fa9d1b85-20e2-4ee3-ac80-6a3caf3f4761.gif)
 
 **3) 음료 상세페이지**
@@ -66,6 +68,7 @@
 - 하단에는 음료 리뷰 작성 기능, 리뷰는 해당 메뉴 구매한 사람만 작성 가능
   (post method이용하고 token값 받아와서 댓글 입력, get method로 inputvalue 조회해서 댓글 내용 가져옴, delete method이용하고 token 값 가져와서 본인 댓글 삭제)
 - 본인일 시 리뷰 삭제 가능
+
 ![리뷰](https://user-images.githubusercontent.com/108816777/213649440-276c879d-5b7e-4e8a-9537-a74be7682354.gif)
 
 
