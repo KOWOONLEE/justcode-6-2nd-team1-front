@@ -4,7 +4,7 @@
 
 ### 일일일차(一日一茶_팀의 **`공차`** 모바일웹 Clone 코딩 프로젝트입니다.
 
-👉[공차](https://www.gong-cha.co.kr)
+👉[공차 오리지널 페이지](https://www.gong-cha.co.kr)
 
 ---
 
@@ -40,6 +40,7 @@
 - [프론트엔드 Github 링크](https://github.com/wecode-bootcamp-korea/justcode-6-2nd-team1-front)
 - [백엔드 Github 링크](https://github.com/wecode-bootcamp-korea/justcode-6-2nd-team1-back)
 
+--------------------------------
 
 ## 📌 이고운 담당 상세 내용
 
