@@ -36,8 +36,7 @@
 - [백엔드 Github 링크](https://github.com/wecode-bootcamp-korea/justcode-6-2nd-team1-back)
 
 
-## 이고운 담당 프로젝트 내용 정리
------------------------------------
+<span style="color:MediumSlateBlue" font-size:150%">이고운 담당 메뉴 상세내용</span>
 
 
 ## 프로젝트 내 역할
