@@ -36,16 +36,15 @@
 - [백엔드 Github 링크](https://github.com/wecode-bootcamp-korea/justcode-6-2nd-team1-back)
 
 
-<span style="color:MediumSlateBlue; font-size:150%">이고운 담당 메뉴 상세내용</span>
+## 이고운 담당 상세 내용
 
-
-## 프로젝트 내 역할
+### 프로젝트 내 역할
   - 메인페이지 및 footer
   - 매장 검색 메뉴 필터링 및 지도 API로 삽입 
   - 상세페이지내 리뷰 
   - 기타 서브 페이지 UI 구현 - 브랜드 소개글 등
 
-## 상세 내용
+### 상세 내용
 
 **메인 화면**
 - 메인페이지 상단에 슬라이드  (react-slick 사용)
